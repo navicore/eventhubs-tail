@@ -1,0 +1,27 @@
+{
+  "name": "eventhubs-tail",
+  "version": "1.0.0",
+  "description": "test tool for eventhubs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navicore/eventhubs-tail.git"
+  },
+  "keywords": [
+    "eventhubs",
+    "node",
+    "npm"
+  ],
+  "author": "Ed Sweeney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navicore/eventhubs-tail/issues"
+  },
+  "homepage": "https://github.com/navicore/eventhubs-tail#readme",
+  "dependencies": {
+    "azure-event-hubs": "0.0.8"
+  }
+}
